@@ -1,0 +1,18 @@
+{
+  "id": "did:web:rateilp.github.io:did-web-demo",
+  "assertionMethod": [
+    {
+      "id": "did:web:rateilp.github.io:did-web-demo#570fe0b9a4c241d043b51d4ab3adc5c261646268ce0a0db92aff2fee8b2783c2",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:rateilp.github.io:did-web-demo",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-384",
+        "x": "yxCPAatjUaB5Lfk6MQohdYwyo5Nev4qmnTPPR7cWl3bfrQxO59z3RahZRD3mlvtO",
+        "y": "kwCtPxQHseSRjJHJ8znOHbHyk7l9Xcm-qMBbKOOHzlgEeSJg96Vh-DzByGMxpXgs",
+        "kid": "#570fe0b9a4c241d043b51d4ab3adc5c261646268ce0a0db92aff2fee8b2783c2",
+        "alg": "ES384"
+      }
+    }
+  ]
+}
